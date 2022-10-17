@@ -1,0 +1,36 @@
+Linux tips 
+Remember:
+
+Do NOT ever run commands, especially with elevation, from online source (especially not from social media) without double checking what it might do. There are wicked, wicked people.
+
+A few tips for Ubuntu -
+- Improve application startup speed
+   sudo apt install preload
+- Improve Laptop Battery
+  sudo apt install tlp tlp-rdw
+- sudo apt install gnome-tweak-tool
+- Extensions Manager itsfoss.com/extension-mana…
+- Explore gnome extensions
+
+Try using snap it's an awesome tool to use on Linux Ubuntu. It makes installing applications easier.
+
+you can find applications using
+" $ snap find app_name "
+And install using cmd
+"$ sudo snap install app_name --classic"
+the classic is used for stable version download I think
+
+
+Dock 
+
+Installing Tilix, setting up zsh, having dock position middle would be great if you like fancy stuff. 
+Something like below:
+
+
+
+Or
+
+Tilix, zsh, dash to dock extension, screenshot tool extension, vitals
+
+￼
+
